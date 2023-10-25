@@ -1,0 +1,14 @@
+C:\Users\csi23-doronozcolegio\Desktop\C#\SumaEnteroMayor\bin\Debug\net6.0\SumaEnteroMayor.exe
+C:\Users\csi23-doronozcolegio\Desktop\C#\SumaEnteroMayor\bin\Debug\net6.0\SumaEnteroMayor.deps.json
+C:\Users\csi23-doronozcolegio\Desktop\C#\SumaEnteroMayor\bin\Debug\net6.0\SumaEnteroMayor.runtimeconfig.json
+C:\Users\csi23-doronozcolegio\Desktop\C#\SumaEnteroMayor\bin\Debug\net6.0\SumaEnteroMayor.dll
+C:\Users\csi23-doronozcolegio\Desktop\C#\SumaEnteroMayor\bin\Debug\net6.0\SumaEnteroMayor.pdb
+C:\Users\csi23-doronozcolegio\Desktop\C#\SumaEnteroMayor\obj\Debug\net6.0\SumaEnteroMayor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-doronozcolegio\Desktop\C#\SumaEnteroMayor\obj\Debug\net6.0\SumaEnteroMayor.AssemblyInfoInputs.cache
+C:\Users\csi23-doronozcolegio\Desktop\C#\SumaEnteroMayor\obj\Debug\net6.0\SumaEnteroMayor.AssemblyInfo.cs
+C:\Users\csi23-doronozcolegio\Desktop\C#\SumaEnteroMayor\obj\Debug\net6.0\SumaEnteroMayor.csproj.CoreCompileInputs.cache
+C:\Users\csi23-doronozcolegio\Desktop\C#\SumaEnteroMayor\obj\Debug\net6.0\SumaEnteroMayor.dll
+C:\Users\csi23-doronozcolegio\Desktop\C#\SumaEnteroMayor\obj\Debug\net6.0\refint\SumaEnteroMayor.dll
+C:\Users\csi23-doronozcolegio\Desktop\C#\SumaEnteroMayor\obj\Debug\net6.0\SumaEnteroMayor.pdb
+C:\Users\csi23-doronozcolegio\Desktop\C#\SumaEnteroMayor\obj\Debug\net6.0\SumaEnteroMayor.genruntimeconfig.cache
+C:\Users\csi23-doronozcolegio\Desktop\C#\SumaEnteroMayor\obj\Debug\net6.0\ref\SumaEnteroMayor.dll
